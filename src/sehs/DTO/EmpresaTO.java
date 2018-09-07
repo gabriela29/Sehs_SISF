@@ -15,7 +15,7 @@ public class EmpresaTO {
     private String ruc;
     private String direccion;
     private String url;
-    //d
+    
     public EmpresaTO(){
         
     }

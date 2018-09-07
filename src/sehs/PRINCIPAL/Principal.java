@@ -30,5 +30,6 @@ public class Principal {
         LoginF s=new LoginF();
         s.setVisible(true);
     }
+    
 } 
 
